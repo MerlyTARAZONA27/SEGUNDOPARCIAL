@@ -1,0 +1,59 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    background-color:  rgba(61, 157, 212, 0.945);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.container img{
+    height: 180px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.title{
+    color: rgb(2, 2, 100);
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenido_header{
+    background-color: white;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    color:  rgb(2, 2, 100);
+}
+.header{
+    background-color: rgb(230, 67, 216);
+    border-radius: 5PX;
+    color: white;
+}
+.contenido_secund{
+    background-color: white;
+   align-items: center;
+    display: flex;
+    border-radius: 5PX;
+}
+.contenido_final{
+    background-color:rgb(230, 67, 216) ;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    color: white;
+}
+.final h3{
+    color: rgb(2, 2, 100); 
+    justify-content: center;
+    align-items: center;
+    
+}
