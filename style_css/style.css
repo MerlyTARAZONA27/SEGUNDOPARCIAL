@@ -50,6 +50,7 @@ body{
     display: flex;
     border-radius: 5px;
     color: white;
+    border-radius: 5px;
 }
 .final h3{
     color: rgb(2, 2, 100); 
